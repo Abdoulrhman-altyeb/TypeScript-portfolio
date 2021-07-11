@@ -44,7 +44,7 @@ const Projects = [
             name:'Colorfull',
             desc:'this is Color project for users to know how interact with color and when to use it ',
             img:colors,
-            Link:'https://infallible-jennings-e4a7d0.netlify.app/'
+            Link:'https://epic-jackson-3926c8.netlify.app/'
         },
         {
             id:uuidv4(),
@@ -65,7 +65,7 @@ const Projects = [
             name:'Mangment',
             desc:'A simple landing page made with html and css ',
             img:manage,
-            Link:'https://epic-jackson-3926c8.netlify.app/'
+            Link:'https://infallible-jennings-e4a7d0.netlify.app/'
         },
         {
             id:uuidv4(),
