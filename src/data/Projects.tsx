@@ -11,6 +11,8 @@ import manage from '../assits/images/manag.jpg';
 import ecommers from '../assits/images/ERC.jpg';
 import auth from '../assits/images/auth.png';
 import blog from '../assits/images/blogPage.png';
+import galary from '../assits/images/galaryApp.png';
+import chat from '../assits/images/chatApp.png';
 const Projects = [
         {
                 id:uuidv4(),
@@ -23,14 +25,14 @@ const Projects = [
                 id:uuidv4(),
                 name:"galaryApp",
                 desc:"still in progress useing new techs",
-                img:"",
+                img:galary,
                 Link:"https://dev-turkey.netlify.app/"
         },
         {
                 id:uuidv4(),
                 name:"Bloggy",
                 desc:"still in progress useing new techs",
-                img:"",
+                img:chat,
                 Link:"https://dev-turkey.netlify.app/"
         },
         {
