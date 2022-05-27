@@ -5,6 +5,7 @@ import Home from "./Pages/Home";
 import Contact from "./Pages/Contact";
 import About from "./Pages/About";
 import Projects from "./Pages/Projects";
+import OnProgress from './Pages/OnProgress';
 import { useEffect } from "react";
 
 
@@ -35,6 +36,9 @@ const App: React.FC = () => {
           </Route>
           <Route path='/projects'>
               <Projects/>
+          </Route>
+          <Route path='/onProgress'>
+               <OnProgress />
           </Route>
         </Switch>
     </>
