@@ -15,23 +15,23 @@ const Projects = [
         {
                 id:uuidv4(),
                 name:"chat app",
-                desc:"an un finished project working on the ui and ux design of the project",
+                desc:"still in progress useing new techs",
                 img:blog,
-                Link:"https://dev-turkey.netlify.app/onProgress"
+                Link:"https://dev-turkey.netlify.app/"
         },
         {
                 id:uuidv4(),
                 name:"galaryApp",
-                desc:"",
+                desc:"still in progress useing new techs",
                 img:"",
-                Link:"https://dev-turkey.netlify.app/onProgress"
+                Link:"https://dev-turkey.netlify.app/"
         },
         {
                 id:uuidv4(),
                 name:"Bloggy",
-                desc:"",
+                desc:"still in progress useing new techs",
                 img:"",
-                Link:"https://dev-turkey.netlify.app/onProgress"
+                Link:"https://dev-turkey.netlify.app/"
         },
         {
             id:uuidv4(),
