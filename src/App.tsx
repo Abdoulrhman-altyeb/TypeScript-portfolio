@@ -37,9 +37,6 @@ const App: React.FC = () => {
           <Route path='/projects'>
               <Projects/>
           </Route>
-          <Route path='/onProgress'>
-               <OnProgress />
-          </Route>
         </Switch>
     </>
   )
