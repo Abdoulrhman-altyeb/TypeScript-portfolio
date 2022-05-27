@@ -5,7 +5,6 @@ import Home from "./Pages/Home";
 import Contact from "./Pages/Contact";
 import About from "./Pages/About";
 import Projects from "./Pages/Projects";
-import OnProgress from './Pages/OnProgress';
 import { useEffect } from "react";
 
 
