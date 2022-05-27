@@ -17,7 +17,21 @@ const Projects = [
                 name:"chat app",
                 desc:"an un finished project working on the ui and ux design of the project",
                 img:blog,
-                Link:"/"
+                Link:"https://dev-turkey.netlify.app/onProgress"
+        },
+        {
+                id:uuidv4(),
+                name:"galaryApp",
+                desc:"",
+                img:"",
+                Link:"https://dev-turkey.netlify.app/onProgress"
+        },
+        {
+                id:uuidv4(),
+                name:"Bloggy",
+                desc:"",
+                img:"",
+                Link:"https://dev-turkey.netlify.app/onProgress"
         },
         {
             id:uuidv4(),
