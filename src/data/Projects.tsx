@@ -10,7 +10,15 @@ import colors from '../assits/images/Colors.png';
 import manage from '../assits/images/manag.jpg';
 import ecommers from '../assits/images/ERC.jpg';
 import auth from '../assits/images/auth.png';
+import blog from '../assits/images/blogPage.png';
 const Projects = [
+        {
+                id:uuidv4(),
+                name:"chat app",
+                desc:"an un finished project working on the ui and ux design of the project",
+                img:blog,
+                Link:"/"
+        },
         {
             id:uuidv4(),
             name:"Movie App",
