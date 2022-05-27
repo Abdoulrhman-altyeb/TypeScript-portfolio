@@ -10,8 +10,7 @@ return(
     <p>I'm working on alot of projects right now with alot of new techs</p>
   </onProgressProject>
 
-)
-
+  )
 }
 
 const onProgressProject = styled.div`
