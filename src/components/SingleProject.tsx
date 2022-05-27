@@ -22,6 +22,7 @@ const ProjectContainerStyled = styled.div`
         border-radius:12px;
         display:inline-block;
         border: 3px solid #363636;
+        object-fit:cover;
         img{
             height:100%;
         }
